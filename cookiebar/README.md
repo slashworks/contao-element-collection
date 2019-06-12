@@ -21,6 +21,6 @@ Die Variable definiert die maximale Breite der Cookiebar auf großen Bildschirme
 Die Hintergrundfarbe der Cookiebar sollte zu einer im Theme definierten Farbvariable geändert werden.
 
 ### .cookiebar__link
-Der Link für weitere Informationen erbt die Styles von Elternelementen. Sollten im Theme noch keine Definitionen für Links und deren Farbe in verschiedenen Zustände (:hover, :active) definiert worden sein, müssen diese hier eingetragen werden.
+Der Link für weitere Informationen erbt die Styles von Elternelementen. Sollten im Theme noch keine Definitionen für Links und deren Farbe in verschiedenen Zuständen (:hover, :active) definiert worden sein, müssen diese hier eingetragen werden.
 
 [1]: https://packagist.org/packages/codefog/contao-cookiebar
