@@ -40,6 +40,15 @@ $cookiebar-width: 960px;
 .cookiebar__link {
     color: inherit;
     transition: color $animation-duration ease-in-out;
+
+    &:hover {
+
+    }
+
+    &:active {
+
+    }
+
 }
 
 .cookiebar__button {
